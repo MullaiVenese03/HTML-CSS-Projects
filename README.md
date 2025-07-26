@@ -8,36 +8,26 @@ This repository serves as a visual playground and learning archive of frontend c
 
 ## 🚀 What I Built
 
-| Project No. | Project Name           | Description                                 |
-|-------------|------------------------|---------------------------------------------|
-| 1️⃣          | Menu Bar               | A simple and elegant navigation menu        |
-| 2️⃣          | Spinner Loading        | Animated loading spinner for pre-loaders    |
-| 3️⃣          | Responsive Navbar      | Fully responsive nav menu for all devices   |
-| 4️⃣          | Animated Background    | A vibrant animated background using CSS     |
-| 5️⃣          | Search Bar             | Stylish and expandable search bar component |
-| 6️⃣          | Detect Invalidation    | Input validation indicator                  |
-| 7️⃣          | Button Animation       | Click and hover animations for buttons      |
-| 8️⃣          | Google Login Page      | Clone of Google’s sign-in page (UI only)    |
-| 9️⃣          | Typing Animation       | Simulates typing effect using CSS/JS        |
+| 🔢 Project No. | 💡 Project Name     | 📝 Description                                     | 🔗 Live Demo                                                                         |
+| -------------- | ------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1️⃣            | Menu Bar            | A simple and elegant navigation menu               | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/1.%20Menu%20Bar/)            |
+| 2️⃣            | Spinner Loading     | Animated loading spinner for pre-loaders           | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/2.%20Spinner%20Loading/)     |
+| 3️⃣            | Responsive Navbar   | Fully responsive navigation menu for all devices   | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/3.%20Responsive%20Navbar/)   |
+| 4️⃣            | Animated Background | A vibrant animated background using pure CSS       | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/4.%20Animated%20Background/) |
+| 5️⃣            | Search Bar          | Stylish and expandable search bar component        | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/5.%20Search%20Bar/)          |
+| 6️⃣            | Detect Invalidation | Input validation and visual feedback               | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/6.%20Detect%20Invalidation/) |
+| 7️⃣            | Button Animation    | Click and hover animations for interactive buttons | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/7.%20Button%20Animation/)    |
+| 8️⃣            | Google Login Page   | UI clone of Google's sign-in page (static)         | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/8.%20Google%20login%20Page/) |
+| 9️⃣            | Typing Animation    | Simulates a typing effect using CSS and JS         | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/9.%20Typing%20Animation/)    |
+| 🔟            | Mini Gallery        | A minimal responsive image gallery layout          | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/10.%20Mini%20gallery/)       |
+| 1️⃣1️⃣         | Animation Card      | Hover-based animated card with UI effects          | [View](https://mullaivenese03.github.io/HTML-CSS-Projects/11.%20Animation%20card/)     |
 
 ## ✨ Lessons Learned
 
 - Deepened understanding of CSS animations and transitions
 - Improved mobile responsiveness techniques
-- Practiced modular project structure for frontend components
+- Practised modular project structure for frontend components
 - Gained confidence in JavaScript interactivity handling
-
-## 🧪 Demo
-
-1. Menu Bar [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/1.%20Menu%20Bar/)
-2. Spinner Loading [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/2.%20Spinner%20Loading/)
-3. Responsive Navbar [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/3.%20Responsive%20Navbar/)
-4. Animated Background [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/4.%20Animated%20Background/)
-5. Search Bar [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/5.%20Search%20Bar/)
-6. Detect Invalidation [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/6.%20Detect%20Invalidation/)
-7. Button Animation [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/7.%20Button%20Animation/)
-8. Google Login Page [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/8.%20Google%20login%20Page/)
-9. Typing Animation [LIVE](https://mullaivenese03.github.io/HTML-CSS-Projects/9.%20Typing%20Animation/)
 
 ## ⚙️ Getting Started
 
