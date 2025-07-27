@@ -22,67 +22,67 @@ This repository serves as a visual playground and learning archive of frontend c
       <td>1️⃣</td>
       <td>Menu Bar</td>
       <td>A simple and elegant navigation menu</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/1.%20Menu%20Bar/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/01-Menu%20Bar/">View</a></td>
     </tr>
     <tr>
       <td>2️⃣</td>
       <td>Spinner Loading</td>
       <td>Animated loading spinner for pre-loaders</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/2.%20Spinner%20Loading/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/02-Spinner%20Loading/">View</a></td>
     </tr>
     <tr>
       <td>3️⃣</td>
       <td>Responsive Navbar</td>
       <td>Fully responsive navigation menu for all devices</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/3.%20Responsive%20Navbar/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/03-Responsive%20Navbar/">View</a></td>
     </tr>
     <tr>
       <td>4️⃣</td>
       <td>Animated Background</td>
       <td>A vibrant animated background using pure CSS</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/4.%20Animated%20Background/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/04-Animated%20Background/">View</a></td>
     </tr>
     <tr>
       <td>5️⃣</td>
       <td>Search Bar</td>
       <td>Stylish and expandable search bar component</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/5.%20Search%20Bar/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/05-Search%20Bar/">View</a></td>
     </tr>
     <tr>
       <td>6️⃣</td>
       <td>Detect Invalidation</td>
       <td>Input validation and visual feedback</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/6.%20Detect%20Invalidation/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/06-Detect%20Invalidation/">View</a></td>
     </tr>
     <tr>
       <td>7️⃣</td>
       <td>Button Animation</td>
       <td>Click and hover animations for interactive buttons</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/7.%20Button%20Animation/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/07-Button%20Animation/">View</a></td>
     </tr>
     <tr>
       <td>8️⃣</td>
       <td>Google Login Page</td>
       <td>UI clone of Google's sign-in page (static)</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/8.%20Google%20login%20Page/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/08-Google%20login%20Page/">View</a></td>
     </tr>
     <tr>
       <td>9️⃣</td>
       <td>Typing Animation</td>
       <td>Simulates a typing effect using CSS and JS</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/9.%20Typing%20Animation/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/09-Typing%20Animation/">View</a></td>
     </tr>
     <tr>
       <td>🔟</td>
       <td>Mini Gallery</td>
       <td>A minimal responsive image gallery layout</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/10.%20Mini%20gallery/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/10-Mini%20gallery/">View</a></td>
     </tr>
     <tr>
       <td>1️⃣1️⃣</td>
       <td>Animation Card</td>
       <td>Hover-based animated card with UI effects</td>
-      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/11.%20Animation%20card/">View</a></td>
+      <td><a href="https://mullaivenese03.github.io/HTML-CSS-Projects/11-Animation%20card/">View</a></td>
     </tr>
   </tbody>
 </table>
